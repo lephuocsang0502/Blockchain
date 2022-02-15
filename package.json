@@ -1,5 +1,5 @@
 {
-  "name": "savjeecoin",
+  "name": "blockchain",
   "version": "1.0.1",
   "description": "Simple Blockchain implementation in Javascript. For educational purposes only.",
   "keywords": [
@@ -13,13 +13,13 @@
     "lint": "eslint src/** tests/**",
     "coverage": "nyc --reporter=lcov npm run test"
   },
-  "author": "Xavier Decuyper <hi@savjee.be>",
+  "author": "Sang Le",
   "license": "MIT",
-  "repository": "github:SavjeeTutorials/SavjeeCoin",
+  "repository": "github:lephuocsang0502/Blockchain",
   "bugs": {
-    "url": "https://github.com/SavjeeTutorials/SavjeeCoin/issues"
+    "url": "https://github.com/lephuocsang0502/Blockchain/issues"
   },
-  "homepage": "https://github.com/SavjeeTutorials/SavjeeCoin",
+  "homepage": "https://github.com/lephuocsang0502/Blockchain",
   "dependencies": {
     "debug": "^4.1.1",
     "elliptic": "^6.5.4"

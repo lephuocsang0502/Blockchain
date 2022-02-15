@@ -1,7 +1,7 @@
 const crypto = require('crypto');
 const EC = require('elliptic').ec;
 const ec = new EC('secp256k1');
-const debug = require('debug')('savjeecoin:blockchain');
+const debug = require('debug')('lephuocsang0502:blockchain');
 
 class Transaction {
   /**
